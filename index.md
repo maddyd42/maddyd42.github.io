@@ -7,7 +7,7 @@ profile:
 published: true
 ---
 
-Hello! I'm Maddy, a third-year PhD candidate in the Naeem-Palmer *Ecology With No Apology Lab* at Columbia University. My research explores the ecological consequences of species range shifts driven by climate change, with a particular focus on how these shifts influence ecosystem functions and biodiversity. Specifically, I investigate the dynamics of mangrove encroachment into salt marshes along the Florida coast, where warming temperatures are facilitating the northward expansion of mangrove populations. By examining the interplay between mangroves and salt marshes, I aim to understand how this species migration alters coastal ecosystem processes, such as nutrient cycling, sedimentation, and habitat provision. My work integrates field studies, remote sensing, and ecological modeling to assess the broader implications of these shifts on ecosystem resilience and biodiversity conservation.
+Hello! I'm Maddy, a third-year PhD candidate in the Naeem-Palmer *Ecology With No Apology Lab* at Columbia University. My research focuses on understanding how ecosystem functions are altered as species shift their ranges in response to climate change. I’m particularly interested in the northward movement of mangroves into salt marshes along the northeast coast of Florida, USA, and how this encroachment impacts coastal ecosystem processes like nutrient cycling, sedimentation, and biodiversity. Using a combination of fieldwork and remote sensing, my work aims to shed light on how these changes affect ecosystem stability and the broader implications for biodiversity conservation in the face of climate change.
 
 ### Publications
 
