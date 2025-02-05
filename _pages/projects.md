@@ -1,9 +1,9 @@
 ---
-title:
+title: Research
 layout: default
 permalink: /projects/
 published: true
 ---
 
-#Projects#
-Here are my current projects.
+<h2>Projects </h2>
+<p>Site update in progress.</p>
