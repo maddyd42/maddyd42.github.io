@@ -5,7 +5,7 @@ description: PhD Candidate | Columbia University | Naeem-Palmer Lab
 
 baseurl: / #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
-email: #
+email: mld2225@columbia.edu
 
 # Pagination
 paginate: 4
